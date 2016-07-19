@@ -1,0 +1,16 @@
+{
+  "name": "georgekoros-portfolio",
+  "version": "0.0.1",
+  "description": "georgekoros",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "George_Kiprotich <georgekiprotich.gk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.14.0"
+  }
+}
